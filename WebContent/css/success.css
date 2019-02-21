@@ -1,0 +1,22 @@
+.box {
+	border: 1px solid #D1DEB2;
+	width: 150px;
+	height: 20px;
+	border-radius: 5px;
+}
+
+.div1 {
+	height: 490px;
+	width: 500 px;
+	padding-left: 100px;
+	float: right;
+	background: #ffffff;
+}
+
+.div {
+	border-radius: 5px;
+	height: 400px;
+	width: 100 px;
+	/* padding-left:12px;padding-right:200px; */
+	padding-top: 0px;
+}

@@ -1,0 +1,63 @@
+/* CSS Document */
+#left {
+	height: 650px;
+	width: 500px;
+	float: left;
+}
+
+#big {
+	height: 900px;
+	width: 1000px;
+	margin: 0 auto 0 auto;
+}
+
+#main {
+	width: 1000px;
+	height: 650px;
+}
+
+#rigth {
+	width: 500px;
+	height: 650px;
+	float: right;
+	color: #0F3;
+}
+
+#foot {
+	width: 1000px;
+	height: 230px;
+	text-align: center;
+	color: #000;
+}
+
+#big #main #left p a {
+	font-size: 18px;
+}
+
+#big #main #left p a {
+	font-size: 24px;
+}
+
+#big #main #rigth table tr td {
+	font-size: 36px;
+}
+
+.q {
+	color: #966;
+}
+
+#big #main #left div {
+	color: #0F6;
+}
+
+#big #main #left h3 {
+	color: #906;
+}
+
+#big #main #left div p {
+	color: #936;
+}
+
+#big #main #rigth h3 {
+	color: #963;
+}
